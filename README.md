@@ -1,2 +1,2 @@
-# 678
-This is test
+# Objective-C gitignore
+This shows Objective-C's gitignore
